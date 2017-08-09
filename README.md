@@ -6,6 +6,7 @@ These are the exercise files used for [Unix and Bash Script Essential Training](
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/unix-and-bash-script-essential-training.html
+
 https://www.tertiarycourses.com.my/unix-and-bash-script-essential-training.html
 
 <p><strong>Module 1 Introduction to Unix</strong></p>
