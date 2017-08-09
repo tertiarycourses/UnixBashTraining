@@ -1,0 +1,16 @@
+--- original_file.txt	2011-02-21 23:30:57.000000000 -0500
++++ revised_file.txt	2011-02-21 23:32:46.000000000 -0500
+@@ -1,11 +1,11 @@
+ line 1:  delete delete delete delete delete delete
+-line 2:  delete delete delete delete delete delete
+ line 3:  delete delete delete delete delete delete
+ line 4:  
+ line 5:  change change change change change change
+-line 6:  change change change change change change
++line 6:  change        change        change       
+ line 7:  change change change change change change
+ line 8:  
+ line 9:  append append append append append append
+ line 10: append append append append append append
+ line 11: append append append append append append
++line 12: append append append append append append

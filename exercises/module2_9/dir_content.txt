@@ -1,0 +1,15 @@
+total 144
+drwxr-xr-x  14 kevin  staff   476B Feb 12 14:14 .
+drwxr-xr-x+ 16 kevin  staff   544B Feb 12 14:00 ..
+-rw-r--r--@  1 kevin  staff   6.0K Feb  6 14:49 .DS_Store
+-rw-r--r--   1 kevin  staff     0B Feb 12 14:14 dir_content.txt
+-rw-r--r--   1 kevin  staff    99B Feb 11 20:11 fruit.txt
+-rw-r--r--   1 kevin  staff    12B Feb 12 14:14 hello_world.txt
+-rw-r--r--@  1 kevin  staff    35K Feb  5 22:26 lorem_ipsum.txt
+-rw-r--r--   1 kevin  staff    55B Feb  5 22:51 new_file.txt
+-rw-r--r--   1 kevin  staff    81B Feb  5 23:58 newer_file.txt
+-rw-r--r--   1 kevin  staff    17B Feb  5 23:11 overwrite_test2.txt
+-rw-r--r--   1 kevin  staff     0B Feb 10 15:41 ownership.txt
+-rw-r--r--@  1 kevin  staff    81B Feb  5 15:11 short_file.txt
+-rw-r--r--   1 kevin  staff    99B Feb 12 14:13 sorted_fruit.txt
+drwxrwxr-x   3 kevin  staff   102B Feb  5 23:39 test1

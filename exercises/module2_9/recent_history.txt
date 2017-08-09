@@ -1,0 +1,25 @@
+    1  cat > test.txt
+    2  cat test.txt 
+    3  rm test.txt 
+    4  cd unix_files/
+    5  ll
+    6  ls-la
+    7  ls -la
+    8  cat new_file.txt 
+    9  cat newer_file.txt 
+   10  cat new_file.txt newer_file.txt > joined.txt
+   11  cat joined.txt 
+   12  cat newer_file.txt new_file.txt > joined.txt
+   13  cat joined.txt 
+   14  rm joined.txt 
+   15  pwd
+   16  ls -la
+   17  pwd
+   18  sort fruit.txt 
+   19  sort fruit.txt > sorted_fruit.txt
+   20  ls -la
+   21  cat sorted_fruit.txt 
+   22  uniq sorted_fruit.txt 
+   23  echo "Hello World" > hello_world.txt
+   24  ls -lah > dir_content.txt
+   25  history > recent_history.txt

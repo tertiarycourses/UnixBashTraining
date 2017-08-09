@@ -1,0 +1,7 @@
+This is a new file.
+
+This is a new line in this file.
+
+This is a short file to use as a demo.
+
+It does not have a lot of content in it.

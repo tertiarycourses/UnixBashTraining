@@ -1,0 +1,11 @@
+line 1:  delete delete delete delete delete delete
+line 3:  delete delete delete delete delete delete
+line 4:  
+line 5:  change change change change change change
+line 6:  change        change        change       
+line 7:  change change change change change change
+line 8:  
+line 9:  append append append append append append
+line 10: append append append append append append
+line 11: append append append append append append
+line 12: append append append append append append
