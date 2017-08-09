@@ -22,7 +22,7 @@ https://www.tertiarycourses.com.sg/unix-and-bash-script-essential-training.html
 <ul>
 <li>Manipulating Files</li>
 <li>Manipulating Directories</li>
-<li>Hard and Soft Links</li>
+<li>Hard and Symbolic Links</li>
 </ul>
 <p><strong>Module 4: Ownership and Permission</strong></p>
 <ul>
@@ -52,8 +52,7 @@ https://www.tertiarycourses.com.sg/unix-and-bash-script-essential-training.html
 <ul>
 <li>Grep</li>
 <li>Regular Expression</li>
-<li>Compress and Extract Files</li>
-<li>Shell Script</li>
+<li>Compress and Extract Files &amp; Directory</li>
 </ul>
 <p><strong>Module 9: Bash Shell Scripting</strong></p>
 <ul>
@@ -69,9 +68,9 @@ https://www.tertiarycourses.com.sg/unix-and-bash-script-essential-training.html
 <li>Shutdown, Reboot, Sleep</li>
 <li>Text to Speech</li>
 </ul>
-<p><strong>Module 11: Secure Shell (SSH)</strong></p>
+<p><strong>Module 11: Communication</strong></p>
 <ul>
-<li>What is SSH</li>
-<li>SSH Login via Password</li>
-<li>SSH Login via Public/Private Key Pairs</li>
+<li>Ping</li>
+<li>FTP</li>
+<li>SSH</li>
 </ul>
