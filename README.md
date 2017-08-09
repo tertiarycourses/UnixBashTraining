@@ -55,13 +55,21 @@ https://www.tertiarycourses.com.sg/unix-and-bash-script-essential-training.html
 <li>Compress and Extract Files</li>
 <li>Shell Script</li>
 </ul>
-<p><strong>Module 9: Useful Mac Commands</strong></p>
+<p><strong>Module 9: Bash Shell Scripting</strong></p>
+<ul>
+<li>Variables</li>
+<li>Control Structures</li>
+<li>Loop</li>
+<li>Function</li>
+<li>Getting Input</li>
+</ul>
+<p><strong>Module 10: Useful Mac Commands</strong></p>
 <ul>
 <li>Screen Capture</li>
 <li>Shutdown, Reboot, Sleep</li>
 <li>Text to Speech</li>
 </ul>
-<p><strong>Module 10: Secure Shell (SSH)</strong></p>
+<p><strong>Module 11: Secure Shell (SSH)</strong></p>
 <ul>
 <li>What is SSH</li>
 <li>SSH Login via Password</li>
